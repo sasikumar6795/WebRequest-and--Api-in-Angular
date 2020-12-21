@@ -1,0 +1,3 @@
+randomuser.me
+randomuser.me/api
+jsonformatter.org
